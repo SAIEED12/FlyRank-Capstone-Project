@@ -24,8 +24,8 @@ A full-stack application built with Next.js, Express, and MongoDB.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd flyrank-capstone-project
+git clone https://github.com/SAIEED12/FlyRank-Capstone-Project.git
+cd FlyRank-Capstone-Project
 
 # Install dependencies
 npm install
