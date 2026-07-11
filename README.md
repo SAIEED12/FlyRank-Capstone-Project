@@ -4,7 +4,7 @@ A full-stack application built with Next.js, Express, and MongoDB.
 
 ## Overview
 
-<!-- Brief description of the project and its purpose -->
+FlyRank is a capstone full-stack web application for discovering, comparing, and ranking flights. It provides a Next.js frontend for search and results, an Express REST API for business logic, and MongoDB Atlas for persistent data—with Better Auth handling user sessions.
 
 ## Tech Stack
 
