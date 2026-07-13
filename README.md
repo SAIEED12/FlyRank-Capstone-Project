@@ -1,10 +1,10 @@
-# FlyRank Capstone Project
+# SortFare
 
 A full-stack application built with Next.js, Express, and MongoDB.
 
 ## Overview
 
-FlyRank is a capstone full-stack web application for discovering, comparing, and ranking flights. It provides a Next.js frontend for search and results, an Express REST API for business logic, and MongoDB Atlas for persistent data—with Better Auth handling user sessions.
+SortFare is a flight comparison app where users search, compare, and rank flights across airlines by price, duration, and stops. There is no booking flow — users are redirected to the airline's own site to purchase.
 
 ## Tech Stack
 
@@ -24,8 +24,8 @@ FlyRank is a capstone full-stack web application for discovering, comparing, and
 
 ```bash
 # Clone the repository
-git clone https://github.com/SAIEED12/FlyRank-Capstone-Project.git
-cd FlyRank-Capstone-Project
+git clone https://github.com/SAIEED12/SortFare.git
+cd SortFare
 
 # Install dependencies
 npm install

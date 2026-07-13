@@ -1,9 +1,13 @@
 ---
-description: FlyRank stack, architecture, and project conventions
+description: SortFare stack, architecture, and project conventions
 alwaysApply: true
 ---
 
-# FlyRank Capstone Project
+# SortFare
+
+## Product Scope
+
+SortFare lets users search, compare, and rank/sort flights across airlines. There is no booking, payment, or seat-selection — users are linked out to the airline's site to complete purchase.
 
 ## Stack
 
