@@ -1,12 +1,10 @@
-import FlightCard from "@/components/FlightCard";
 import FlightPageClient from "@/components/FlightPageClient";
-import FlightSkeleton from "@/components/FlightSkeleton";
-import Image from "next/image";
+import { flights } from "@/data/flights";
 
 export default function Home() {
   return (
-    <div >
-      Home
+    <div className="max-w-3xl mx-auto p-4">
+      <FlightPageClient flights={flights} />
     </div>
   );
 }
